@@ -3,6 +3,7 @@ This project is a sophisticated AI-powered SQL generator and executor. By levera
 
 This application democratizes the power of SQL by encapsulating the complexity of query generation. It's a useful tool for those who need to interact with databases but may not have extensive SQL knowledge or for those who simply want to speed up the process of creating and running SQL queries.
 
+now workint with only postgresql
 # Get started
 Get your own API Key at https://beta.openai.com/
 
